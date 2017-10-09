@@ -1,3 +1,6 @@
+// Author : Romain Rossi
+// Licence : Creative Common Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
+
 include <common.scad>
 use <braille_2Dplates.scad>
 use <braille_2Dshapes.scad>
